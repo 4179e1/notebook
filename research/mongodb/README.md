@@ -3,7 +3,7 @@
 ## MongoDB 简介
 
 MongoDB是一个开源的分布式文档形数据库，文档是一个键值对组成的数据结构，类似JSON，字段的值可以是数组或者字典（可以理解为嵌套的文档），例如 
-![](http://km.oa.com/files/photos/pictures/201904/1554881277_77_w570_h170.png)
+![](https://docs.mongodb.com/manual/_images/crud-annotated-document.bakedsvg.svg)
 
 MongoDB主打的特性包括
 
